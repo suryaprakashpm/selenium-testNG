@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Sample">
+
+<test name="Sample Test">
+
+<groups>
+
+<run>
+<exclude name="Benz">
+</exclude>
+
+</run>
+
+</groups>
+
+<classes>
+
+<class name="testNGExamples.GroupingExample"></class>
+
+
+</classes>
+
+
+</test>
+
+
+
+</suite>
